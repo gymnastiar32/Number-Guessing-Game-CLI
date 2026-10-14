@@ -2,6 +2,8 @@
 
 A simple command-line number guessing game built with JavaScript and Node.js. Guess the computer's secret number between 1 and 100 before you run out of attempts.
 
+Project page: [Number Guessing Game — roadmap.sh](https://roadmap.sh/projects/number-guessing-game)
+
 ## Features
 
 - Random secret number from 1 to 100 for each game

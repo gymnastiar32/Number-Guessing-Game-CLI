@@ -1,0 +1,17 @@
+{
+    "name": "number-guessing-game",
+    "version": "1.0.0",
+    "description": "A command-line number guessing game built with JavaScript and Node.js.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [
+        "number-guessing-game",
+        "cli",
+        "javascript",
+        "nodejs"
+    ],
+    "license": "UNLICENSED",
+    "private": true
+}
